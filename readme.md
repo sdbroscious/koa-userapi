@@ -3,7 +3,7 @@
 
 #### Intro
 
-This code is based on the 'Building an HTTP API With Koa', module 4 of the ['Introduction to Koa Javascript'] Pluralsight course. It's a simple CRUD API that exposes the basics of writing a Koa web service.
+This code is based on the 'Building an HTTP API With Koa' lesson (module 4) of the ['Introduction to Koa Javascript'] Pluralsight course. It's a simple CRUD API that exposes the basics of writing a Koa web service.
 
 #### Notes
 
